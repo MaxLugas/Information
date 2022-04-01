@@ -24,15 +24,15 @@
 </div>
 <br>
 :man_technologist: About Me :
-<div>
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+  <div>
+  I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-- :telescope: I'm working as a security sector engineer and contribute to the safety of train traffic on the railway.
+  - :telescope: I'm working as a security sector engineer and contribute to the safety of train traffic on the railway.
 
-- :zap: In my free time I solve problems in Python and read technical articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Lugovsky-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-lugovsky-622696230/)
-<hr>
+  - :zap: In my free time I solve problems in Python and read technical articles.
+      
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Lugovsky-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-lugovsky-622696230/)
+      <hr>
 :hammer_and_wrench: Languages and Tools :
   <div>
   <br>
@@ -40,4 +40,4 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+  </div>
