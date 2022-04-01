@@ -42,9 +42,3 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
-  <hr>
-:writing_hand: Blog Posts :
-  <div>
-    <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
