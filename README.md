@@ -17,11 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=MaxLugas&style=flat-square&color=blue" alt=""/>
 </div>
 <hr>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-<br>
-<hr>
-</div>
+
 
 :man_technologist: About Me :
 <br>
