@@ -29,11 +29,13 @@
   - :zap: In my free time I solve problems in Python and read technical articles.
       
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Lugovsky-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-lugovsky-622696230/)
-      <hr>
+<hr>
 :hammer_and_wrench: Languages and Tools :
+<br>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  </div>
 
